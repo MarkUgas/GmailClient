@@ -19,7 +19,7 @@ import javax.mail.internet.MimeMessage;
 public class SendEmail {
 
     private String user = "sharmarke.ugas@gmail.com";
-    private String pass = "please28";
+    private String pass = "****";
     
     public SendEmail(String to, String subject, String msg) {
         
